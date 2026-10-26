@@ -1,0 +1,44 @@
+{
+  "generated_at": "2026-10-27T11:26:46.108Z",
+  "items": {
+    "problem:316": {
+      "kind": "problem",
+      "id": "316",
+      "title": "MMLU Log-Probability Scoring",
+      "difficulty": "medium",
+      "category": "LLM",
+      "url": "https://www.deep-ml.com/problems/316",
+      "path": "problems/0316-mmlu-log-probability-scoring",
+      "first_solved_at": "2026-10-26T13:10:32.417Z",
+      "last_pushed_at": "2026-10-26T13:10:32.417Z",
+      "language": "python",
+      "lines": 36
+    },
+    "problem:22": {
+      "kind": "problem",
+      "id": "22",
+      "title": "Sigmoid Activation Function Understanding",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/22",
+      "path": "problems/0022-sigmoid-activation-function-understanding",
+      "first_solved_at": "2026-10-26T14:30:39.033Z",
+      "last_pushed_at": "2026-10-26T14:30:39.033Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:23": {
+      "kind": "problem",
+      "id": "23",
+      "title": "Softmax Activation Function Implementation ",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/23",
+      "path": "problems/0023-softmax-activation-function-implementation",
+      "first_solved_at": "2026-10-26T14:44:03.789Z",
+      "last_pushed_at": "2026-10-26T14:44:03.789Z",
+      "language": "python",
+      "lines": 14
+    }
+  }
+}
