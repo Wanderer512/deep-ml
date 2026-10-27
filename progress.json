@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T11:26:46.108Z",
+  "generated_at": "2026-10-27T11:26:48.007Z",
   "items": {
     "problem:316": {
       "kind": "problem",
@@ -39,6 +39,32 @@
       "last_pushed_at": "2026-10-26T14:44:03.789Z",
       "language": "python",
       "lines": 14
+    },
+    "problem:24": {
+      "kind": "problem",
+      "id": "24",
+      "title": "Single Neuron",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/24",
+      "path": "problems/0024-single-neuron",
+      "first_solved_at": "2026-10-27T11:13:31.536Z",
+      "last_pushed_at": "2026-10-27T11:13:31.536Z",
+      "language": "python",
+      "lines": 24
+    },
+    "problem:39": {
+      "kind": "problem",
+      "id": "39",
+      "title": "Implementation of Log Softmax Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/39",
+      "path": "problems/0039-implementation-of-log-softmax-function",
+      "first_solved_at": "2026-10-27T11:22:41.133Z",
+      "last_pushed_at": "2026-10-27T11:22:41.133Z",
+      "language": "python",
+      "lines": 10
     }
   }
 }
