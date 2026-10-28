@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T11:30:42.890Z",
+  "generated_at": "2026-10-28T07:31:15.012Z",
   "items": {
     "problem:316": {
       "kind": "problem",
@@ -78,6 +78,19 @@
       "last_pushed_at": "2026-10-27T11:30:42.093Z",
       "language": "python",
       "lines": 13
+    },
+    "problem:1662": {
+      "kind": "problem",
+      "id": "1662",
+      "title": "The Logit Margin and the Precision Cliff",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1662",
+      "path": "problems/1662-the-logit-margin-and-the-precision-cliff",
+      "first_solved_at": "2026-10-28T07:31:14.183Z",
+      "last_pushed_at": "2026-10-28T07:31:14.183Z",
+      "language": "python",
+      "lines": 35
     }
   }
 }
