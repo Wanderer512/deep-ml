@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**11** solved · 9 problems · 0 labs · 2 math
+**12** solved · 10 problems · 0 labs · 2 math
 
 ![Coverage](./coverage.svg)
 
@@ -20,6 +20,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Softmax Activation Function Implementation ](https://www.deep-ml.com/problems/23) | easy | 2026-10-26 | [solution](problems/0023-softmax-activation-function-implementation) |
 | [The Logit Margin and the Precision Cliff](https://www.deep-ml.com/problems/1662) | easy | 2026-10-28 | [solution](problems/1662-the-logit-margin-and-the-precision-cliff) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-10-28 | [solution](problems/0002-transpose-of-a-matrix) |
+| [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2026-11-01 | [solution](problems/0017-k-means-clustering) |
 | [MMLU Log-Probability Scoring](https://www.deep-ml.com/problems/316) | medium | 2026-10-26 | [solution](problems/0316-mmlu-log-probability-scoring) |
 
 ## Math
