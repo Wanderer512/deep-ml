@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T11:57:28.037Z",
+  "generated_at": "2026-11-02T11:03:36.012Z",
   "items": {
     "problem:316": {
       "kind": "problem",
@@ -152,6 +152,19 @@
       "last_pushed_at": "2026-11-01T11:57:26.207Z",
       "language": "python",
       "lines": 31
+    },
+    "problem:4": {
+      "kind": "problem",
+      "id": "4",
+      "title": "Calculate Mean by Row or Column",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/4",
+      "path": "problems/0004-calculate-mean-by-row-or-column",
+      "first_solved_at": "2026-11-02T11:03:34.532Z",
+      "last_pushed_at": "2026-11-02T11:03:34.532Z",
+      "language": "python",
+      "lines": 10
     }
   }
 }
